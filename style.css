@@ -1,0 +1,84 @@
+.toparea{
+	background-image:url("http://ingyen-hatterkep.hu/wallpapers/ur/_teljeskep/34061.jpg");
+	margin: 0px 10%;
+	background-repeat:no-repeat;
+	padding-bottom: 10px;
+
+}
+
+#emptybox{
+	
+	height:100px;
+}
+.navbar {
+	text-decoration:none;
+	width:100%;
+	height:150px;
+
+}
+
+.navbar-left, .navbar-right, .nav-center{
+	list-style:none;
+}
+
+.navbar-left li{
+	float:left;
+	font-color:white;
+	padding:2px 0px 2px 0px;
+	margin: 0px 20px 0px 0px;
+	text-decoration:none;
+	font-family:"Optima";
+	font-weight:bold;
+	font-size:15px;
+
+}
+
+.navbar-right li{
+	float:right;
+	color:white;
+	padding: 2px 5px;
+	margin: 0px 15px;
+	text-decoration:none;
+	font-family:"Franklin Gothic Medium" ;
+	font-size:15px;
+}
+
+.content {
+	margin: 50px 30%;
+}
+
+.chunk1, .chunk2, .chunk3 {
+	margin-bottom: 50px;
+	position:relative;
+
+}
+
+h1, h3, h6 {
+	font-weight:bold;
+	font-size:32px;
+	color: white;
+}
+
+.title_content{
+	margin: 0px 22% 100px 25%;
+	
+}
+
+.nav-center li{
+	text-decoration:none;
+	float:left;
+	padding:5px 5px;
+}
+
+.nav-center{
+	margin:5% 25% 10% 40%;
+	padding: 15px 20px 20px 20px;
+	}
+
+.copyright{
+	
+	font-size:10px;
+	color:grey;
+	margin:0px 42% 0px 42%;
+	padding: 0px 5px 10px 5px;
+}
