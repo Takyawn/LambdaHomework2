@@ -1,6 +1,6 @@
 .toparea{
 	background-image:url("http://ingyen-hatterkep.hu/wallpapers/ur/_teljeskep/34061.jpg");
-	margin: 0px 10%;
+	margin: 0px 25%;
 	background-repeat:no-repeat;
 	padding-bottom: 10px;
 
@@ -44,7 +44,7 @@
 }
 
 .content {
-	margin: 50px 30%;
+	margin: 50px 37%;
 }
 
 .chunk1, .chunk2, .chunk3 {
@@ -71,14 +71,14 @@ h1, h3, h6 {
 }
 
 .nav-center{
-	margin:5% 25% 10% 40%;
-	padding: 15px 20px 20px 20px;
+	margin:5% 30% 10% 40%;
+	padding: 15px 40px 20px 90px;
 	}
 
 .copyright{
 	
 	font-size:10px;
 	color:grey;
-	margin:0px 42% 0px 42%;
+	margin:0px 45% 0px 45%;
 	padding: 0px 5px 10px 5px;
 }
